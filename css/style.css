@@ -1,0 +1,17 @@
+#A {
+    display: left;
+}
+
+#A img {
+    align-items: left;
+}
+
+#B ul {
+    font-size: small;
+    display:flex;
+    flex-direction: column;
+}
+
+#B h2 {
+    font-size: 1.5em;
+}
