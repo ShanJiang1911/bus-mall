@@ -3,30 +3,26 @@
     border: black solid 2px;
 }
   
-#B {
+#customer-clicks {
     background-color: #ffb399;
     border: black solid 2px;
 }
   
-#C {
+#left_product {
     background-color: #ffcc99;
     border: black solid 2px;
 }
   
-#D {
+#middle_product {
     background-color: #ffe699;
     border: black solid 2px;
 }
   
-#E {
+#right_product {
     background-color: #ffff99;
     border: black solid 2px;
 }
   
-#F {
-    background-color: #e6ff99;
-    border: black solid 2px;
-}
   
 #G {
     background-color: #ccff99;
