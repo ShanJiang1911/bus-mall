@@ -2,16 +2,42 @@
     display: left;
 }
 
-#A img {
-    align-items: left;
-}
 
-#B ul {
-    font-size: small;
+#customer-clicks ul {
+    font-size: medium;
     display:flex;
     flex-direction: column;
 }
 
-#B h2 {
-    font-size: 1.5em;
+#left_product {
+    font-size: medium;
+    display:flex;
+    flex-direction: column;
+}
+
+#middle_product {
+    font-size: medium;
+    display:flex;
+    flex-direction: column;
+}
+
+#right_product {
+    font-size: medium;
+    display:flex;
+    flex-direction: column;
+}
+
+#left-product-img {
+    margin-top: 20px;
+    width: 70%;
+}
+
+#middle-product-img {
+    margin-top: 20px;
+    width: 70%;
+}
+
+#right-product-img {
+    margin-top: 20px;
+    width: 70%;
 }
